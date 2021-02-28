@@ -244,7 +244,7 @@ ADDPDEFS=
 OPTLFLAGS=-dynamic -dylib -lSystem
 
 # object linker: debug
-DEBLFLAGS=-dynamic -dylib -lSystem -g
+DEBLFLAGS=-dynamic -dylib -lSystem
 
 # options for installing programs
 IBOPT=-c -m 6555
