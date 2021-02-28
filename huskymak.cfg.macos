@@ -1,7 +1,7 @@
 # Config-Makefile for Husky-packages
 #
 # For MacOS X 10.x (Darwin).
-# Tested with OS X 10.13 High Sierra.
+# Tested with OS X 10.13 High Sierra and OS X 10.15 Catalina.
 #
 # Requires Apple Xcode to build.
 #
